@@ -1,2 +1,2 @@
-# Sistema-b-sico-de-gesti-n-de-compras
+# Sistema-basico-de-gestion-de-compras
 Taller del dia 08/04/2026
